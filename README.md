@@ -1,0 +1,1 @@
+**Email confirmation** in a .NET 8 Web API typically refers to a process where users need to verify their email address to complete account registration or perform certain actions. This helps ensure that the email provided is valid and that the user has access to it.
