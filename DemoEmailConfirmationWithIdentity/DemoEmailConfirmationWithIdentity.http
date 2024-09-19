@@ -1,0 +1,6 @@
+@DemoEmailConfirmationWithIdentity_HostAddress = http://localhost:5017
+
+GET {{DemoEmailConfirmationWithIdentity_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
